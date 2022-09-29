@@ -22,7 +22,7 @@ spec:
   releaseName: factorio
   chart:
     spec:
-      chart: sqljamesfactorio/factorio-server-charts
+      chart: factorio-server-charts
       version: 1.0.11
       sourceRef:
         kind: HelmRepository
